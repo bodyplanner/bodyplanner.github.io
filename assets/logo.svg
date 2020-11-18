@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  content="&lt;mxfile host=&quot;app.diagrams.net&quot; modified=&quot;2020-06-25T11:05:37.100Z&quot; agent=&quot;5.0 (X11)&quot; version=&quot;13.3.4&quot; etag=&quot;8iJ5bEuBs0U8WwT0qCHc&quot; type=&quot;device&quot;&gt;&lt;diagram id=&quot;-U8UZmDU139q5fZ_R1Mu&quot;&gt;tZVNT4QwEIZ/DVcDlN14dXf9uJiY7EE9VjpCY6GkDAL+eksYPsqyaqKetvPOtDN9Zsp6bJ81t4YX6b0WoLzQF43HDl4YBmG4tT+d0pLC/MteSYwUpE3CUX4AiT6plRRQOoGotUJZuGKs8xxidDRujK7dsFet3KwFT+BEOMZcnaqPUmDaq5cbf9LvQCbpkDnwyZPxIZiEMuVC1zOJXXtsb7TGfpU1e1AdvYFLv+/mjHcszECOP9kQ9hveuaroblQXtsNlja5yAV184LFdnUqEY8Hjzlvb/lotxUyRu0Sj30Yo9jo7SgAGoTlbZDBe3Q4N6AzQtDakddteT6y3JKUzzBFpnLqbjAdNAOyCGKzzYP/Kg1mFm5gGOow686XUqkK4GuXgl9Cas9CiFWjhH0CLvocGubjqHp61cp2DCwkaiU927V9syHqeeQ7dhfzBaMlwwUYjMxCLp1vqysTgdPcHEGfUNivUBs2A4ijf3YxrKCnDg5Y28dgjNjRpGPTtoht98bRr/oyXB7nnLJuK3CSAJ8fYjvB2FlZ0AeUX5S6qdT4tdtGfN43MyHNtiqw5feb68Onfgl1/Ag==&lt;/diagram&gt;&lt;/mxfile&gt;"
+  height="53px" version="1.1" viewBox="-0.5 -0.5 62 53" width="62px"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs/>
+  <g>
+    <rect fill="#ffffff" height="40" pointer-events="all" rx="6" ry="6" stroke="#000000" stroke-width="2" width="60"
+          x="1" y="11"/>
+    <rect fill="#ffffff" height="20" pointer-events="all" rx="10" ry="10" stroke="#000000" stroke-width="3" width="40"
+          x="11" y="1"/>
+    <path d="M 31 21 L 31 16 Q 31 11 31 16 L 31 21" fill="none" pointer-events="stroke" stroke="#000000"
+          stroke-miterlimit="10" stroke-width="4"/>
+  </g>
+</svg>
